@@ -21,8 +21,7 @@ Step 4: Create NPM run scripts
     "build": "webpack"
   },
   ...
-
-
+  
 Here's what each package does:
 react: UI library for creating modular components
 react-dom: enables us to render the React within the browser DOM
