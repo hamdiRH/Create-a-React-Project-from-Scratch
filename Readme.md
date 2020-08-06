@@ -23,9 +23,6 @@ Step 4: Create NPM run scripts
   ...
 
 
-
-
-
 Here's what each package does:
 react: UI library for creating modular components
 react-dom: enables us to render the React within the browser DOM
